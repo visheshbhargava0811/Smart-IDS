@@ -1,0 +1,3 @@
+algo,acc,Test+
+RF without FS,0.9999206,0.0354
+RF with FS,0.9999603,0.2219
